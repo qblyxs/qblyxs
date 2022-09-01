@@ -15,7 +15,7 @@
 
 # 🔭 正在开发的项目
 [`前端组件库` -> component library](https://github.com/qblyxs/gucat-component)  
-[`项目仓库` -> project-ideas](https://github.com/qblyxs/project-ideas)  
+[`一些项目代码` -> project-ideas](https://github.com/qblyxs/project-ideas)  
 [`WEB3D`-> web3d-projects](https://github.com/qblyxs/gucat-three)  
 [`游戏demo` -> game-demo](https://github.com/qblyxs/game-demo)  
 [`代码库` -> codebase](https://github.com/qblyxs/gucat-codebase)  
