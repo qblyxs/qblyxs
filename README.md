@@ -13,89 +13,103 @@
   <img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api?username=qblyxs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 
-# 🔭 正在开发的项目
-[`前端组件库` -> component library](https://github.com/qblyxs/gucat-component)  
-[`一些项目代码` -> project-ideas](https://github.com/qblyxs/project-ideas)  
-[`WEB3D`-> web3d-projects](https://github.com/qblyxs/gucat-three)  
-[`游戏demo` -> game-demo](https://github.com/qblyxs/game-demo)  
-[`代码库` -> codebase](https://github.com/qblyxs/gucat-codebase)  
+# gucat-official-website 项目
 
-<br><br>
+# GUCAT 官网
 
-<a href="https://github.com/qblyxs">
-<img align="right" src="https://github-readme-stats-two-theta-93.vercel.app/api/top-langs/?username=qblyxs&theme=dark&layout=compact&langs_count=10" />
-</a>
+这是一个基于 Node 的 Hexo 静态网站官网部署在k8s服务器集群上，主要用于分享 K8s DevOps 相关的知识和经验，包括 Jenkins、ArgoCD、Twikoo、Memos 等各种服务，并提供相关代码和配置清单。
 
-# 🚀 熟悉的技术栈:
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
-[![Less](https://img.shields.io/badge/Less-%231572B6.svg?style=for-the-badge&logo=less&logoColor=white)](https://less.bootcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://wikipedia.org/wiki/JavaScript)
-[![JSON](https://img.shields.io/badge/JSON-%23323330.svg?style=for-the-badge&logo=json&logoColor=%23F7DF1E)](http://www.json.org.cn/)
-[![Ajax](https://img.shields.io/badge/Ajax-%23323330.svg?style=for-the-badge&logo=ajax&logoColor=%23F7DF1E)](https://www.w3.org/)
-[![axios](https://img.shields.io/badge/axios-%23323330.svg?style=for-the-badge&logo=axios&logoColor=%23F7DF1E)](https://axios-http.com/)
-[![Webpack](https://img.shields.io/badge/webpack-%23F05033.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.docschina.org/)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![yarn](https://img.shields.io/badge/yarn-%23F05033.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://www.yarnpkg.cn/)
-[![vitejs](https://img.shields.io/badge/vitejs-%23F05033.svg?style=for-the-badge&logo=vitejs&logoColor=white)](https://vitejs.cn/)
-[![Vue](https://img.shields.io/badge/Vue-%23323330.svg?style=for-the-badge&logo=vue.js&logoColor=%23F7DF1E)](https://cn.vuejs.org/)
-[![react](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)](https://reactjs.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-%23323330.svg?style=for-the-badge&logo=three.js&logoColor=%23F7DF1E)](https://threejs.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Nginx](https://img.shields.io/badge/Nginx-%23323330.svg?style=for-the-badge&logo=nginx&logoColor=%23F7DF1E)](http://nginx.org/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)](https://hub.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-%23323330.svg?style=for-the-badge&logo=jenkins&logoColor=%23F7DF1E)](https://www.jenkins.io/)
-[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/) 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![unity](https://img.shields.io/badge/unity-%23777BB4.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![cocos](https://img.shields.io/badge/cocos-%23777BB4.svg?style=for-the-badge&logo=cocos&logoColor=white)](https://www.cocos.com/)
-[![blender](https://img.shields.io/badge/blender-%23777BB4.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+## 构建
 
-# 🖥️ 常用技术栈
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/)
-[![Less](https://img.shields.io/badge/Less-%231572B6.svg?style=for-the-badge&logo=less&logoColor=white)](https://less.bootcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://wikipedia.org/wiki/JavaScript)
-[![JSON](https://img.shields.io/badge/JSON-%23323330.svg?style=for-the-badge&logo=json&logoColor=%23F7DF1E)](http://www.json.org.cn/)
-[![axios](https://img.shields.io/badge/axios-%23323330.svg?style=for-the-badge&logo=axios&logoColor=%23F7DF1E)](https://axios-http.com/)
-[![Webpack](https://img.shields.io/badge/webpack-%23F05033.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.docschina.org/)
-[![yarn](https://img.shields.io/badge/yarn-%23F05033.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://www.yarnpkg.cn/)
-[![vitejs](https://img.shields.io/badge/vitejs-%23F05033.svg?style=for-the-badge&logo=vitejs&logoColor=white)](https://vitejs.cn/)
-[![Vue](https://img.shields.io/badge/Vue-%23323330.svg?style=for-the-badge&logo=vue.js&logoColor=%23F7DF1E)](https://cn.vuejs.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)](https://hub.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-%23323330.svg?style=for-the-badge&logo=jenkins&logoColor=%23F7DF1E)](https://www.jenkins.io/)
+本项目提供了 K8s 集群相关的配置清单和 Jenkinsfile、Dockerfile 等信息，您可以通过以下方式部署本项目：
 
-# 🌱 学习中技术栈
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-%23323330.svg?style=for-the-badge&logo=three.js&logoColor=%23F7DF1E)](https://threejs.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
-[![unity](https://img.shields.io/badge/unity-%23777BB4.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![cocos](https://img.shields.io/badge/cocos-%23777BB4.svg?style=for-the-badge&logo=cocos&logoColor=white)](https://www.cocos.com/)
-[![blender](https://img.shields.io/badge/blender-%23777BB4.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-[![kubernetes](https://img.shields.io/badge/kubernetes-%23323330.svg?style=for-the-badge&logo=kubernetes&logoColor=%23F7DF1E)](https://kubernetes.io/)
+1. 克隆本仓库到您的本地：`git clone https://github.com/qblyxs/gucat-official-website.git`
+2. 根据官网教程或者仓库说明进行相关配置
+3. 运行 `jenkins` 流水线调用`kubernetes` 集群`API` 动态创建所流水线需要的全部`pod` 
+4. 使用 `Jenkinsfile` 和 `Dockerfile` 构建 `Docker` 镜像 
+5. 该过程会通过流水线里的`kaniko` 镜像构建`docker` 镜像 ,并推送到`hub仓库中`
 
-<br>
+## 部署
 
-# 🍞 More
-|  🥩 使用过的操作系统   | 👌 Used Tools/Apps/Services  |
-|  ----  | ----  |
-| [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/) [![CentOS](https://img.shields.io/badge/cent-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)](https://www.centos.org/) [![RedHat](https://img.shields.io/badge/redhat-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23F7DF1E)](https://www.redhat.com/) [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)  | [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Docker](https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)](https://hub.docker.com/) [![Jenkins](https://img.shields.io/badge/Jenkins-%23323330.svg?style=for-the-badge&logo=jenkins&logoColor=%23F7DF1E)](https://www.jenkins.io/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) [![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/) |
+1. 可直接使用`docker run --name gucat -d -p 80:4000 qblyxs/gucat-web:latest` 运行本站镜像
+2. 可直接跳过构建过程,直接使用`docker pull qblyxs/qblyxs/gucat-web:latest` 拉取本站制作好的镜像
+3. 或者将本仓库配置到`argoCD` 中,并通过`argoCD` 动态创建`kubernetes` 资源,资源文档在`deploy` 目录下
+4. 或者直接使用`kubectl apply -f deploy` 目录下的资源清单进行部署
 
-|  🖥️ 常用的编辑器/IDEs | 📫 How to reach me |
-|  ----  | ---- |
-| [![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/) [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | [![Gmail](https://img.shields.io/badge/gucat@gucat.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gucat@gucat.cn) [![Telegram](https://img.shields.io/badge/@qblyxs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qblyxs) <!-- [![Discord](https://img.shields.io/badge/qblyxs%234908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)] -->[![Twitter](https://img.shields.io/badge/@CATROL18-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CATROL18) [![Twitch](https://img.shields.io/badge/qblyxs-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/qblyxs) [![Giee](https://img.shields.io/badge/qblyxs-%23121011.svg?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/qblyxs)[![GitHub](https://img.shields.io/badge/qblyxs-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qblyxs)  |
 
-<br>
+注意，完整复现本项目需要一套`k8s`集群,集群需要集成`jenkins` 和 `argocd` 两个服务,并且需要配置`jenkins` 的`pipeline` 和`argoCD` 的`application` 两个流水线,同时完整复现本站还需要配置`twikoo` 等一系列微服务和云函数。
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qblyxs&theme=react-dark)](https://github.com/qblyxs)
+## 使用
 
+本官网主要用于分享 K8s DevOps 相关知识和经验，您可以通过以下方式使用官网：
+
+1. 访问官网网址：`https://gucat.vip/`
+2. 在官网中阅读相关的文章，学习相关知识和经验
+3. 通过博客评论系统 Twikoo 发表您的评论和想法
+4. 相关平台网址: `https://jenkins.gucat.vip/` `https://argocd.gucat.vip/` `https://twikoo.gucat.vip/` `https://memos.gucat.vip/` `https://mirrors.gucat.vip/`
+
+
+## 贡献者
+
+本项目的贡献者包括：
+
+- Fomalhaut🥝 (https://github.com/fomalhaut1998/hexo-theme-Fomalhaut.git) ,该作者提供的模板修改
+- jerryc127 (https://github.com/jerryc127/hexo-theme-butterfly) ,该作者提供的主题模板
+
+如果您想为本项目做出贡献，请发送邮件至 `gucat@gucat.cn`，我们将非常欢迎您的参与。
+
+## 许可证
+
+本项目采用 MIT 许可证进行许可，详情请参见 `LICENSE` 文件。
+
+## 版本历史
+
+本项目的版本历史如下：
+
+- v1.0.0：内测阶段，包括基础网站框架和devops环境等配置与测试
+- v1.0.1：公测阶段，包括网站和相关服务的测试和试发布
+- v1.0.2：新增 Jenkins、ArgoCD、Twikoo、Memos 等服务的文章和资源清单
+- v1.0.x: 修复一系列出现的BUG
+- v1.1.0：发布第一个线上版本。
+
+## 问题与反馈
+
+如果您在使用本项目时遇到任何问题或有任何反馈，请发送邮件至 `gucat@gucat.cn`，我们将会及时处理并回复您。
+
+## 参考资料
+
+本项目使用以下框架和工具：
+
+- kubernetes：一个容器编排引擎
+- Hexo：一个基于 Node 的静态网站框架
+- Jenkins：一个自动化构建工具
+- ArgoCD：一个 K8s 的 GitOps 工具
+- Twikoo：一个轻量的博客评论系统
+- Memos：一个轻量的在线笔记系统
+- Kaniko：一个轻量的 Docker 镜像构建工具
+- container-structure-test：一个轻量的 Docker 镜像测试工具
+- filebrowser：一个轻量的文件管理工具
+
+我们在使用这些框架和工具时，参考了以下资料：
+
+- 官方文档：https://hexo.io/docs/
+- Jenkins 中文文档：https://www.jenkins.io/zh/doc/
+- ArgoCD 官方文档：https://argoproj.github.io/argo-cd/
+- Twikoo 官方文档：https://twikoo.js.org/
+
+## 作者信息
+
+本官网由 `孤猫`(`qblyxs`) 设计和开发，技术支持由 `孤猫`(`qblyxs`) 提供。
+
+如需联系作者，请发送邮件至 `gucat@gucat.cn`。
+或者通过以下方式联系作者：
+微信：`qblyxs` (请注明来意)
+
+## 附加说明
+
+本 README.md 文档可以在 GitHub 仓库中进行编辑和更新，如有任何修改和更新，请联系贡献者进行审核和合并。
+本仓库国内镜像同步地址：https://gitee.com/qblyxs/gucat-official-website.git
+另外欢迎联系我进行项目开发和合作，谢谢！
 
 <p align="center">
 <pre align="center">
